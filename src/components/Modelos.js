@@ -5,7 +5,7 @@ const actrices = [
     {
         id: 'jennareid',
         nombre: 'Jenna Reid',
-        enlace: 'https://es.pornhub.com/view_video.php?viewkey=ph5cbab8e2d0e99',
+        enlace: 'http://corneey.com/esZjZR',
         edad: '25 Años',
         photo: jenna,
 
@@ -13,7 +13,7 @@ const actrices = [
     {
         id: 'valsteele',
         nombre: 'Val Steele',
-        enlace: 'https://es.pornhub.com/view_video.php?viewkey=ph617bd685009b7',
+        enlace: 'http://corneey.com/esZjCa',
         edad: '22 Años',
         photo: val,
 
