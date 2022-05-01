@@ -2,7 +2,10 @@
   "name": "diosdesgainf",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://diosdesga.github.io/DiosdesgaInf",
+  "homepage": "https://diosdesga.github.io/diosdesga",
+  "devDependencies": {
+    "react-scripts": "^5.0.1"
+  },
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.4",
     "@testing-library/react": "^13.1.1",
@@ -12,7 +15,6 @@
     "react": "^18.1.0",
     "react-dom": "^18.1.0",
     "react-router-dom": "^6.3.0",
-    "react-scripts": "5.0.1",
     "reactstrap": "^9.0.2",
     "styled-components": "^5.2.1",
     "web-vitals": "^2.1.4"

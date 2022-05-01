@@ -9,7 +9,7 @@ function App() {
    
     <BrowserRouter>
       <Routes>
-          <Route path='/DiosdesgaInf' index element={<Inicio/>}/>
+          <Route path='/diosdesga' index element={<Inicio/>}/>
           <Route path='/:id' index element={<Perfil/>}/>
       </Routes>
     </BrowserRouter>

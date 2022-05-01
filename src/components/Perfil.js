@@ -20,7 +20,7 @@ function Perfil () {
             const filtrar = actrices.filter( modelo => modelo.id == id)
             
             if(filtrar.length == 0){
-            navigate('/DiosdesgaInf')
+            navigate('/diosdesga')
             }else{
                 setPerfil(filtrar[0])
             }
