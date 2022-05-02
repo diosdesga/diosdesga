@@ -9,7 +9,7 @@ import logo from "../assets/PERFIL.jpg";
 
 function Perfil () {
     const {id} = useParams()
-
+console.log(id);
     const navigate = useNavigate();
 
    const [perfil, setPerfil] = useState({})

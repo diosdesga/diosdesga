@@ -55,6 +55,11 @@ const Contenedor = styled.div`
   margin-right: 15%;
   background: #eaeaea;
   min-height: 100vh;
+
+  //! MEDIDA PARA PANTALLAS MAS PEQUEÑAS
+@media screen and (max-width: 800px) {
+  margin-left: 1%;
+  margin-right: 1%;
 `;
 
 const Tittle = styled.div`
@@ -125,4 +130,5 @@ overflow:scroll;
      }
 
     }
+  }
 `;

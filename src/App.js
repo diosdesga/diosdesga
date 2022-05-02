@@ -10,7 +10,7 @@ function App() {
     <BrowserRouter>
       <Routes>
           <Route path='/diosdesga' index element={<Inicio/>}/>
-          <Route path='/:id' index element={<Perfil/>}/>
+          <Route path='/diosdesga/:id' index element={<Perfil/>}/>
       </Routes>
     </BrowserRouter>
   );
